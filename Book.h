@@ -7,8 +7,6 @@
 
 #include "Chapter.h"
 
-using namespace std;
-
 #ifndef BOOK_H_
 #define BOOK_H_
 

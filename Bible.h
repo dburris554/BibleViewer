@@ -7,8 +7,6 @@
 
 #include "Testament.h"
 
-using namespace std;
-
 #ifndef BIBLE_H_
 #define BIBLE_H_
 

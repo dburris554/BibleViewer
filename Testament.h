@@ -7,8 +7,6 @@
 
 #include "Book.h"
 
-using namespace std;
-
 #ifndef TESTAMENT_H_
 #define TESTAMENT_H_
 

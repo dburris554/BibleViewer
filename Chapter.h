@@ -7,8 +7,6 @@
 
 #include "Verse.h"
 
-using namespace std;
-
 #ifndef CHAPTER_H_
 #define CHAPTER_H_
 

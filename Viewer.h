@@ -5,9 +5,11 @@
  *      Author: david
  */
 
+#include <iostream>
+#include <iomanip>
+#include <string>
+#include <cstdlib>
 #include "Bible.h"
-
-using namespace std;
 
 #ifndef VIEWER_H_
 #define VIEWER_H_
