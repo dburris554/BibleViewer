@@ -5,6 +5,8 @@
  *      Author: david
  */
 
+using namespace std;
+
 #ifndef VERSE_H_
 #define VERSE_H_
 
